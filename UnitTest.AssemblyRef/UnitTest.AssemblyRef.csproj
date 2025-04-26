@@ -30,6 +30,7 @@
   <ItemGroup>
     <Reference Include="MSTest.Bug.Cpp">
       <HintPath>..\Project.Cpp\bin\x64\Debug\MSTest.Bug.Cpp.dll</HintPath>
+      <Private>True</Private>
     </Reference>
   </ItemGroup>
 
